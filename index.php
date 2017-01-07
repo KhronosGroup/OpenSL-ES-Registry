@@ -89,6 +89,22 @@ include_once("../../assets/static_pages/khr_page_top.php");
 
 <h6> Enumerant and Function Registry </h6>
 -->
+
+<h6> Providing Feedback on the Registry </h6>
+
+<p> Khronos welcomes comments and bug reports. To provide feedback on the
+    OpenSL ES registry itself (such as reporting missing content, bad links,
+    etc.), file an issue in the <a
+    href="https://github.com/KhronosGroup/OpenSL-ES-Registry/issues">
+    OpenSL-ES-Registry </a> Github project. </p>
+
+<p> For the OpenSL-ES API, extensions, and headers, file a bug on the <a
+    href="http://www.khronos.org/bugzilla/"> Khronos Bugzilla </a>. Make
+    sure to fill in the &quot;Product&quot; field in the bug entry form as
+    &quot;OpenSL ES&quot;, and pick appropriate values for the Component and
+    other fields. </p>
+
+
 <?php include_once("../../assets/static_pages/khr_page_bottom.php"); ?>
 </body>
 </html>

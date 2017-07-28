@@ -1,17 +1,8 @@
 <?php
 $static_title = 'Khronos OpenSL ES Registry';
-$static_breadcrumb = array(
-    '/registry/' => 'Registry',
-    'NOLINK' => 'OpenSL ES Registry'
-);
+
 include_once("../../assets/static_pages/khr_page_top.php");
 ?>
-
-<h1 class="pagetitle">Khronos OpenSL ES&trade; Registry</h1>
-<div id="mainformat">
-
-
-<h1 style="text-align:center"> Khronos OpenSL ES&trade; Registry </h1>
 
 <p> The OpenSL ES registry contains specifications of the core API;
     specifications of Khronos- and vendor-approved OpenSL ES extensions;
